@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST="{\"components\\\\calculators\\\\body-fat\\\\BodyFatCalculatorServer.tsx -> ./BodyFatCalculator\":{\"id\":\"components\\\\calculators\\\\body-fat\\\\BodyFatCalculatorServer.tsx -> ./BodyFatCalculator\",\"files\":[\"static/chunks/_app-pages-browser_components_calculators_body-fat_BodyFatCalculator_tsx.js\"]}}"
