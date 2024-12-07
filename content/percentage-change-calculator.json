@@ -1,0 +1,1864 @@
+{
+  "blocks": [
+    {
+      "id": "151e4db6-1239-800a-a7e7-d16793fe0a57",
+      "type": "heading_1",
+      "content": [
+        {
+          "text": "Percentage Change Calculator - Your Comprehensive Guide",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8024-ae83-dc8c19a686bf",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "1. What is Percentage Change?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-806c-ad27-ecc2522be5d7",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Percentage change is a way to show how much a quantity has increased or decreased in comparison to its original value. It gives us an idea of the relative growth or decline of a particular value over a period of time. For example, if the price of a product goes up from $50 to $60, we can calculate the percentage change to understand exactly how much the price has increased in percentage terms. It helps us make sense of changes in various things like prices, quantities, populations, and many other aspects in our daily lives, business, and different fields of study.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8015-85dc-dfdb19de6a4e",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "2. Percentage Change Formula",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8033-84c6-cd6d11b9556b",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The formula for calculating percentage change is:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8075-9c8a-e1c63da2f2c6",
+      "type": "equation",
+      "content": {
+        "expression": "\n\\text{Percentage Change} = \\frac{\\text{New Value} - \\text{Original Value}}{\\text{Original Value}} \\times 100\\%\n",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-8088-ac48-d83f02887c64",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Let's take an example to understand this better. Suppose you had 80 apples originally, and now you have 100 apples. To find the percentage change in the number of apples:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80b0-b54f-c45d72b591c0",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Original Value = 80 (the initial number of apples)\nNew Value = 100 (the current number of apples)",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80fb-937a-f909afb8b397",
+      "type": "equation",
+      "content": {
+        "expression": "\\begin{align*}\n\\text{Percentage Change} &= \\frac{100 - 80}{80} \\times 100\\%\\\\\n&= \\frac{20}{80} \\times 100\\%\\\\\n&= 0.25 \\times 100\\%\\\\\n&= 25\\%\n\\end{align*}",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-807c-974b-c6eabf7baf97",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "So, the number of apples has increased by 25%.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-803d-bc5a-d8e5df12200e",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "3. Formula Change",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8029-9c4c-d5de8b9a9e1c",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "3.1 Percentage of a Number Formula",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80a8-bb39-eb3e3a6199ac",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The formula to find the percentage of a number is:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80eb-a654-cb993ace1bce",
+      "type": "equation",
+      "content": {
+        "expression": "\n\\text{Percentage of a Number} = \\frac{\\text{Percentage}}{100} \\times \\text{Number}",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-802b-be98-d7410f494ab3",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Formula Explanation: This formula helps us find out what a certain percentage of a given number is. For example, if you want to find out what 20% of 50 is.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8065-95f0-d24ff243d553",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Case Application: We want to calculate 20% of 50.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8094-95c8-db9664af9886",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Solution:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8028-8aba-cfe103ece719",
+      "type": "equation",
+      "content": {
+        "expression": "\\begin{align*}\n\\text{Percentage of a Number} &= \\frac{20}{100} \\times 50\\\\\n&= 0.2 \\times 50\\\\\n&= 10\n\\end{align*}",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-805f-b5af-f5809698e149",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Answer: 20% of 50 is 10.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8065-8390-de5fc04fbcfc",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "3.2 Reverse Percentage Formula",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-805a-8909-db8a5dfc416b",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The reverse percentage formula is used when we know the final value after a percentage change and we want to find the original value. The formula is:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8027-a927-f079d59c1287",
+      "type": "equation",
+      "content": {
+        "expression": "\n\\text{Original Value} = \\frac{\\text{Final Value}}{1 + \\frac{\\text{Percentage Change}}{100}}\n",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-8015-9006-d434b98bc239",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Formula Explanation: If a value has been increased by a certain percentage and we know the final amount, this formula helps us work backwards to find the original value. For example, if a product's price has been increased by 25% and the new price is $125, we can use this formula to find the original price.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8085-9511-f2d1bca67288",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Case Application: The price of a product has been increased by 25% and the new price is $125. Find the original price.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80cd-95b4-e52c855ce051",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Solution:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8068-a165-c2882ff758e7",
+      "type": "equation",
+      "content": {
+        "expression": "\\begin{align*}\n\\text{Original Value} &= \\frac{125}{1 + \\frac{25}{100}}\\\\\n&= \\frac{125}{1 + 0.25}\\\\\n&= \\frac{125}{1.25}\\\\\n&= 100\n\\end{align*}",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-80a6-b1df-e161b9df83f4",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Answer: The original price of the product was $100.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-809f-a0c9-d909f1ee2bd5",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "3.3 Percentage Increase Formula",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8011-a7b3-cd7d70c690b8",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The formula for percentage increase is very similar to the general percentage change formula when the change is an increase. It is:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-801a-90dd-cadb1575ed10",
+      "type": "equation",
+      "content": {
+        "expression": "\\text{Percentage Increase} = \\frac{\\text{New Value} - \\text{Original Value}}{\\text{Original Value}} \\times 100\\%",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-80a7-b606-de15280300b4",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Formula Explanation: This formula specifically calculates the percentage by which a value has increased from its original state. For example, if the number of students in a class increased from 30 to 40.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8001-a16e-f755a7cd2f4b",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Case Application: The number of students in a class increased from 30 to 40. Calculate the percentage increase.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-800b-b328-fe2ea0e78215",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Solution:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-804c-a7c0-f874c044da24",
+      "type": "equation",
+      "content": {
+        "expression": "\\begin{align*}\n\\text{Percentage Increase} &= \\frac{40 - 30}{30} \\times 100\\%\\\\\n&= \\frac{10}{30} \\times 100\\%\\\\\n&= \\frac{1}{3} \\times 100\\%\\\\\n&\\approx 33.33\\%\n\\end{align*}",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-80c1-8087-ece4a8f8d02c",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Answer: The percentage increase in the number of students is approximately 33.33%.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80c1-a2d6-ea3f5f4e11e2",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "3.4 Percentage Decrease Formula",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8049-aada-cc75270caf3f",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The formula for percentage decrease is also based on the general percentage change formula but for when the change is a decrease. It is:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8010-acad-fa5ade39e5cb",
+      "type": "equation",
+      "content": {
+        "expression": "\n\\text{Percentage Decrease} = \\frac{\\text{Original Value} - \\text{New Value}}{\\text{Original Value}} \\times 100\\%",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-8025-8391-cbf4dfab7d4b",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Formula Explanation: This formula calculates the percentage by which a value has decreased from its original state. For example, if the price of a shirt decreased from $50 to $40.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8062-8c28-f64123957e42",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Case Application: The price of a shirt decreased from $50 to $40. Calculate the percentage decrease.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8073-93b9-c09c5bd7e259",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Solution:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-809c-9051-fed63fccc182",
+      "type": "equation",
+      "content": {
+        "expression": "\n\\begin{align*}\n\\text{Percentage Decrease} &= \\frac{50 - 40}{50} \\times 100\\%\\\\\n&= \\frac{10}{50} \\times 100\\%\\\\\n&= 0.2 \\times 100\\%\\\\\n&= 20\\%\n\\end{align*}",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-8046-a553-c73c52aa1ec9",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Answer: The percentage decrease in the price of the shirt is 20%.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-809a-ae1e-f4a52ac5fc68",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "3.5 Compound Percentage Change Formula",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8089-82c3-c5b567aa75e3",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The compound percentage change formula is used when there are multiple percentage changes happening one after another. If we have two percentage changes, say \\(p_1\\) and \\(p_2\\), the formula to find the overall percentage change is:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8059-b85a-d755aa6f48b6",
+      "type": "equation",
+      "content": {
+        "expression": "\n\\text{Overall Percentage Change} = \\left(1 + \\frac{p_1}{100}\\right)\\left(1 + \\frac{p_2}{100}\\right) - 1 \\times 100\\%\n",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-802a-9814-ef40d8a068d4",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Formula Explanation: This formula helps us calculate the combined effect of multiple percentage changes. For example, if the price of a stock first increased by 10% and then decreased by 5%.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80dd-a75a-deac44d3720b",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Case Application: The price of a stock first increased by 10% and then decreased by 5%. Calculate the overall percentage change.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8059-8c0b-fef3b149c3b2",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Solution:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80de-8bff-ef479850d5d3",
+      "type": "equation",
+      "content": {
+        "expression": "\\begin{align*}\np_1 = 10\\% \\text{ and } p_2 = -5\\%\n\\text{Overall Percentage Change} &= \\left(1 + \\frac{10}{100}\\right)\\left(1 + \\frac{-5}{100}\\right) - 1 \\times 100\\%\\\\\n&= (1 + 0.1)(1 - 0.05) - 1 \\times 100\\%\\\\\n&= 1.1 \\times 0.95 - 1 \\times 100\\%\\\\\n&= 1.045 - 1 \\times 100\\%\\\\\n&= 0.045 \\times 100\\%\\\\\n&= 4.5\\%\n\\end{align*}",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-8088-a290-fbebbb68e652",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Answer: The overall percentage change in the price of the stock is 4.5%.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8011-9bde-ff7c68b897d7",
+      "type": "paragraph",
+      "content": []
+    },
+    {
+      "id": "151e4db6-1239-8010-8826-d8107101c893",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "3.6 Change Difference Formula",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-804c-abbc-d33e496ee308",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The change difference formula calculates the actual difference between the new value and the original value after considering the percentage change. The formula is:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8013-9319-e34336ead36d",
+      "type": "equation",
+      "content": {
+        "expression": "\\text{Change Difference} = \\text{New Value}-\\text{Original Value}\\times\\left(1+\\frac{\\text{Percentage Change}}{100}\\right)",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-8026-945a-d11f2cd3c6cf",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Formula Explanation: This formula gives us the numerical difference between the two values when a percentage change has occurred. For example, if a quantity originally was 200 and had a 15% increase.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80b2-9524-c117f33a8e8b",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Case Application: The original quantity is 200 and has a 15% increase.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8098-8fca-cf953a753c2a",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Solution:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-803d-916c-c3573d8aa5d3",
+      "type": "equation",
+      "content": {
+        "expression": "\\begin{align*}\n\\text{Change Difference}&=200\\times\\left(1+\\frac{15}{100}\\right)- 200\\\\\n&=200\\times1.15-200\\\\\n&=230 - 200\\\\\n&= 30\n\\end{align*}\n",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-8057-9742-cc9e3408aeec",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Answer: The change difference is 30.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80e4-98f4-cd20b14ace30",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "4. How to find the percentage change between negative numbers?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80d3-b2e9-da85bb054d24",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "When dealing with negative numbers, the percentage change formula still applies. However, we need to be careful with the signs.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80b6-adde-c984536788e2",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Let's say the original value is -50 and the new value is -30.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80e2-9bbe-e57a1645cae5",
+      "type": "equation",
+      "content": {
+        "expression": "\\begin{align*}\n\\text{Percentage Change} &= \\frac{\\text{New Value} - \\text{Original Value}}{\\text{Original Value}} \\times 100\\%\\\\\n&= \\frac{-30 - (-50)}{-50} \\times 100\\%\\\\\n&= \\frac{-30 + 50}{-50} \\times 100\\%\\\\\n&= \\frac{20}{-50} \\times 100\\%\\\\\n&= -0.4 \\times 100\\%\\\\\n&= -40\\%\n\\end{align*}",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-8053-bb2f-fa04e212e549",
+      "type": "paragraph",
+      "content": []
+    },
+    {
+      "id": "151e4db6-1239-8050-a968-fa1b5a96b15e",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "This means there is a 40% increase from -50 to -30. Notice that a negative original value and a positive difference result in a negative percentage change, which indicates an increase in the magnitude (but still in the negative direction).",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80e3-8e5d-e05965967198",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "If the original value is -30 and the new value is -50:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80a2-9de7-c81e43a1a947",
+      "type": "equation",
+      "content": {
+        "expression": "\n\\begin{align*}\n\\text{Percentage Change} &= \\frac{-50 - (-30)}{-30} \\times 100\\%\\\\\n&= \\frac{-50 + 30}{-30} \\times 100\\%\\\\\n&= \\frac{-20}{-30} \\times 100\\%\\\\\n&\\approx 0.6667 \\times 100\\%\\\\\n&= 66.67\\%\n\\end{align*}\n",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-80ed-bb0d-e7560c235727",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Here, we have a 66.67% decrease from -30 to -50. A negative difference and a negative original value result in a positive percentage change, which indicates a decrease in the magnitude (but still in the negative direction).",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-807f-869e-cf5d999d4316",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "5. How to Use Change Calculator",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8046-810e-cc6ac6a59e92",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Using the change calculator is quite simple. Here's what you need to do:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80ec-be92-e62a5bfe2b9e",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Input Variables:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80dc-a444-f9b856de6f2a",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Original Value",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": Enter the initial value of the quantity you are interested in. For example, if you are calculating the percentage change in the price of a product, enter the original price.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80c9-aa02-eb7c034354cc",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "New Value",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": Input the final value of the quantity after the change has occurred. Continuing with the product price example, enter the new price here.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-809f-9eb4-c6b74f3fdb42",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Output Results:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80fd-ba2b-da0ad8710434",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Once you have entered the original value and the new value into the calculator, it will automatically calculate the percentage change using the formula we discussed earlier. The result will be displayed as a percentage, showing you exactly how much the quantity has increased or decreased in relative terms. If you are using a calculator with additional features, it might also be able to handle other related calculations such as finding the percentage of a number, reverse percentage calculations, etc., depending on the specific functions available.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8082-bbeb-d845aab01a21",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "6. Formula Origin",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80b5-b6ef-ca6c6762b5bb",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The concept of percentage change and related formulas have been around for a long time. They have their roots in basic arithmetic and the need to compare changes in quantities in a standardized way.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8028-a4b3-d5066092562f",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "In ancient times, merchants and traders needed to understand how much the prices of goods had changed to make informed decisions about buying and selling. As economies grew and more complex financial and business transactions emerged, the need for precise calculations of percentage changes became even more crucial.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80f8-a8eb-c16d57815395",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Over the years, these formulas have been refined and applied in various fields such as economics, finance, science, and statistics. In economics, they are used to analyze trends in GDP growth, inflation rates, etc. In finance, they help in calculating returns on investments, changes in stock prices, etc. In science and statistics, they are used to analyze data related to population growth, experimental results, etc.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8009-9ef8-e560e9e02a99",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "7. FAQ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80d5-a41d-fd5a0cb20cef",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Q1: What if the original value is zero in the percentage change formula?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80ec-9177-f2aca648d5ea",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A: If the original value is zero in the percentage change formula, the formula becomes undefined because division by zero is not allowed. In such cases, we need to re-evaluate the situation and look for alternative ways to analyze the change, perhaps by using other relevant metrics or considering the context in a different way.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80e1-9d47-c2043227ec41",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Q2: Can percentage change be negative?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-803d-b32b-f0266cd8444c",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A: Yes, percentage change can be negative. A negative percentage change indicates that the value has decreased from its original state. For example, if the price of a product goes down from $50 to $40, the percentage change will be negative, showing the extent of the decrease.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80af-892e-febf34a3e6c6",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Q3: How accurate are the calculations using these formulas?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80c0-be50-f69a9f66145d",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A: The accuracy of the calculations depends on the accuracy of the input values. If the original value and the new value are entered correctly, the formulas will give accurate results based on the mathematical principles they are derived from. However, in real-world applications, there might be some rounding errors or uncertainties due to the limitations of measurement or data collection methods.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-806d-b777-dcf7af89473f",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Q4: Are there any shortcuts or tricks to remember these formulas?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80c5-91cf-fb7c1645546b",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A: One way to remember the basic percentage change formula is to think of it as finding the difference between the new and original values, dividing that difference by the original value, and then multiplying by 100 to get the percentage. For the other related formulas, understanding the concept behind each formula and practicing with examples can help you remember them more easily. For example, the reverse percentage formula can be remembered by thinking about working backwards from the final value to find the original value when you know the percentage change.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80ea-ad8a-f7baf22f0d31",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Q5: Can these formulas be used for non-numeric values?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8019-86b0-ebc7a1f4f402",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A: These formulas are designed to work with numeric values. They are based on arithmetic operations that require numbers. However, in some cases, you might be able to map non-numeric values to numbers (for example, assigning numbers to different categories or levels) and then apply the formulas, but this would require a specific context and mapping scheme. In general, for straightforward applications, these formulas are used for numeric values.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80bd-9759-efc6cb9ff04f",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "8. Solved Examples on Percentage",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-803f-9e7e-edf4df75c006",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Example 1: Business Profit",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8061-a8c7-c57f7c7346e2",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A company's profit in the previous year was $500,000. This year, the profit increased to $600,000. Calculate the percentage increase in profit.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-805b-ac7f-ef24dd8e6b5c",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Solution:\nOriginal Value = $500,000\nNew Value = $600,000",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8059-9ba3-d11ca1113263",
+      "type": "equation",
+      "content": {
+        "expression": "\\begin{align*}\n\\text{Percentage Increase} &= \\frac{600,000 - 500,000}{500,000} \\times 100\\%\\\\\n&= \\frac{100,000}{500,000} \\times 100\\%\\\\\n&= 0.2 \\times 100\\%\\\\\n&= 20\\%\n\\end{align*}",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-80c7-ac6c-e0defb6fa44f",
+      "type": "paragraph",
+      "content": []
+    },
+    {
+      "id": "151e4db6-1239-80a3-be82-dbb43c6d5f09",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Answer: The percentage increase in the company's profit is 20%.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8017-8274-d08e7514cf8a",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Example 2: Population Growth",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-805a-b63d-c8b779b3ecc0",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The population of a town in 2010 was 80,000. In 2020, it grew to 90,000. Calculate the percentage growth in population.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80e5-8557-e33bddc3ce2c",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Solution:\nOriginal Value = 80,000\nNew Value = 90,000",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80b0-b32d-fe0b8effa88e",
+      "type": "equation",
+      "content": {
+        "expression": "\n\\begin{align*}\n\\text{Percentage Growth} &= \\frac{90,000 - 80,000}{80,000} \\times 100\\%\\\\\n&= \\frac{10,000}{80,000} \\times 100\\%\\\\\n&= 0.125 \\times 100\\%\\\\\n&= 12.5\\%\n\\end{align*}\n",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-80d3-a9ea-cde8b2ef4437",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Answer: The percentage growth in the population of the town is 12.5%.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80de-b260-f0df31f914ef",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Example 3: Discount on a Product",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-808b-aa78-c75f6f965502",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The original price of a product is $200. There is a 15% discount on it. Calculate the new price of the product.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-807e-8e86-ff4a8e5b4bbe",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Solution:\nFirst, we need to find out the amount of the discount.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80da-9067-c12d9716dfa1",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Discount = 15% of $200",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80b8-8b5b-f6f79b9de959",
+      "type": "equation",
+      "content": {
+        "expression": "\\begin{align*}\n\\text{Discount} &= \\frac{15}{100} \\times 200\\\\\n&= 0.15 \\times 200\\\\\n&= 30\n\\end{align*}",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-804d-b865-f945a6e64d60",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "\n",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8045-ae9b-cb5ac0653747",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The new price of the product will be the original price minus the discount.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80d9-b44a-cef84fcbfc24",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "New Price = $200 - $30 = $170",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8057-9c61-f2ed08232c8a",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Answer: The new price of the product is $170.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Percentage Change Calculator",
+    "lastUpdated": "2024-12-03T15:42:16.989Z"
+  },
+  "toc": [
+    {
+      "id": "-s",
+      "text": "Percentage Change Calculator - Your Comprehensive Guide",
+      "level": 1,
+      "children": [
+        {
+          "id": "ws",
+          "text": "1. What is Percentage Change?",
+          "level": 2
+        },
+        {
+          "id": "",
+          "text": "2. Percentage Change Formula",
+          "level": 2
+        },
+        {
+          "id": "",
+          "text": "3. Formula Change",
+          "level": 2,
+          "children": [
+            {
+              "id": "",
+              "text": "3.1 Percentage of a Number Formula",
+              "level": 3
+            },
+            {
+              "id": "s",
+              "text": "3.2 Reverse Percentage Formula",
+              "level": 3
+            },
+            {
+              "id": "s",
+              "text": "3.3 Percentage Increase Formula",
+              "level": 3
+            },
+            {
+              "id": "s",
+              "text": "3.4 Percentage Decrease Formula",
+              "level": 3
+            },
+            {
+              "id": "",
+              "text": "3.5 Compound Percentage Change Formula",
+              "level": 3
+            },
+            {
+              "id": "",
+              "text": "3.6 Change Difference Formula",
+              "level": 3
+            }
+          ]
+        },
+        {
+          "id": "wws",
+          "text": "4. How to find the percentage change between negative numbers?",
+          "level": 2
+        },
+        {
+          "id": "ws",
+          "text": "5. How to Use Change Calculator",
+          "level": 2,
+          "children": [
+            {
+              "id": "s",
+              "text": "Input Variables:",
+              "level": 3
+            },
+            {
+              "id": "ss",
+              "text": "Output Results:",
+              "level": 3
+            }
+          ]
+        },
+        {
+          "id": "",
+          "text": "6. Formula Origin",
+          "level": 2
+        },
+        {
+          "id": "",
+          "text": "7. FAQ",
+          "level": 2,
+          "children": [
+            {
+              "id": "ws",
+              "text": "Q1: What if the original value is zero in the percentage change formula?",
+              "level": 3
+            },
+            {
+              "id": "",
+              "text": "Q2: Can percentage change be negative?",
+              "level": 3
+            },
+            {
+              "id": "wssss",
+              "text": "Q3: How accurate are the calculations using these formulas?",
+              "level": 3
+            },
+            {
+              "id": "sssss",
+              "text": "Q4: Are there any shortcuts or tricks to remember these formulas?",
+              "level": 3
+            },
+            {
+              "id": "sss-s",
+              "text": "Q5: Can these formulas be used for non-numeric values?",
+              "level": 3
+            }
+          ]
+        },
+        {
+          "id": "ss",
+          "text": "8. Solved Examples on Percentage",
+          "level": 2,
+          "children": [
+            {
+              "id": "sss",
+              "text": "Example 1: Business Profit",
+              "level": 3
+            },
+            {
+              "id": "w",
+              "text": "Example 2: Population Growth",
+              "level": 3
+            },
+            {
+              "id": "s",
+              "text": "Example 3: Discount on a Product",
+              "level": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

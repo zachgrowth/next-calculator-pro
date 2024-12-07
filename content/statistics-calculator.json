@@ -1,0 +1,1424 @@
+{
+  "blocks": [
+    {
+      "id": "151e4db6-1239-807e-84c6-d7f2bf14b225",
+      "type": "heading_1",
+      "content": [
+        {
+          "text": "Statistics Calculator - Your Essential Tool for Data Analysis",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8089-af91-dae9e24f9548",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "1. What is Statistics Calculator?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-809d-b60a-dca51cda29d6",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A statistics calculator is a powerful tool designed to handle and analyze data. It helps in understanding the characteristics and patterns within a set of numbers. Whether you're dealing with a small set of data like the scores of a class test or a large dataset such as population statistics, this calculator can perform various operations. It can calculate measures of central tendency like the mean, median, and mode, which give an idea of where the \"center\" of the data lies. It also computes measures of dispersion such as the standard deviation and variance, which tell us how spread out the data is. In short, a statistics calculator simplifies the complex task of data analysis and provides valuable insights.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-808c-a7c9-f21d8e715fe1",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "2. Statistics Calculator Formula",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-805b-b1b9-e5a6808bb68b",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "2.1 Mean Formula",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80f4-b355-cc41a762bb62",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The formula for the mean (average) of a set of data is:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80f3-80e2-d6d4c9e61088",
+      "type": "equation",
+      "content": {
+        "expression": "bar{x}=\\frac{\\sum_{i = 1}^{n}x_{i}}{n}",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-80f5-90ea-da40962147b0",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "\n”x”represents each individual data point and ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8016-a08a-fd9fc1ff7044",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "“n”is the total number of data points.\n",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80db-a87b-e38f10e8b23c",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "For example, if we have the data set {2, 4, 6, 8, 10}, ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "n = 5",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ", and ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "\\sum_{i=1}^{5}x_{i}=2 + 4+6+8 + 10=30",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ".",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80df-8018-c7a029f712d1",
+      "type": "paragraph",
+      "content": []
+    },
+    {
+      "id": "151e4db6-1239-80d6-acff-ecde590417e9",
+      "type": "equation",
+      "content": {
+        "expression": "\\bar{x}=\\frac{30}{5}=6",
+        "isBlock": true
+      }
+    },
+    {
+      "id": "151e4db6-1239-803e-b3a3-da3605be3865",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "3. Formula Change",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8086-a6c4-c1859970e478",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "3.1 Median Formula",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80ae-9aad-fc8dd58f4761",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The median is the middle value of a sorted data set. If ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "n ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " is odd, the median is the ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "\\left(\\frac{n + 1}{2}\\right)^{th}",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " value. If ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " (n) ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "is even, the median is the average of the",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "(\\frac{n}{2}^{th} )",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "  ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " and (\\left(\\frac{n}{2}+ 1\\right)^{th}",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " values.\nFormula Explanation: It helps to find the central value that divides the data set into two equal halves.\nCase Application: Consider the data set {3, 5, 7, 9, 11}. Here ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "n = 5",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " (odd).\nSolution: The median is the ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "\\left(\\frac{5+ 1}{2}\\right)^{th}",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " value, which is the ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "(3^{rd}) ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " value. So the median is ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "7",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ".\nAnswer: The median of the data set is ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "7",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ".",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80b0-927c-e31a65747d95",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "3.2 Mode Formula",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-800c-a398-e87a05dd87ac",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The mode is the value that appears most frequently in a data set.\nFormula Explanation: It identifies the most common value in the data.\nCase Application: In the data set {2, 3, 3, 5, 7, 7, 7, 9},\nSolution: The value ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "7",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "appears most frequently.\nAnswer: The mode of the data set is ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "7",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ".",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-801b-a349-f05d73db99f6",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "3.3 Variance Formula",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-809d-97e1-c3d5bee92068",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The formula for the variance of a sample is:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-802b-8239-daabd7c00b65",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "s^{2}=\\frac{\\sum_{i = 1}^{n}(x_{i}-\\bar{x})^{2}}{n - 1}",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "\n\nFormula Explanation: It measures how much the data points deviate from the mean.\nCase Application: For the data set {4, 6, 8, 10, 12}, the mean ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "\\bar{x}=8",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80a6-b8d2-e19ca2126fa1",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "s^{2}=\n\n",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "\\frac{(4 - 8)^{2}+(6-8)^{2}+(8 - 8)^{2}+(10-8)^{2}+(12 - 8)^{2}}{5- 1}\\\\\n\n",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "\n    =\\frac{16+4+0+4+16}{4}=10\n",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " \n\nAnswer: The variance of the data set is 10.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80b1-8d84-edf0e6e810c7",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "3.4 Standard Deviation Formula",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8060-92c6-de1933a1ceec",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The standard deviation ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "s\\ ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "is the square root of the variance, so ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "s=\\sqrt{s^{2}}",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "\nFormula Explanation: It gives a more interpretable measure of the spread of data compared to the variance.\nCase Application: Using the variance ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": "s^{2}=10",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " from the previous example.\nSolution:\nAnswer: The standard deviation of the data set is approximately \\(3.16\\).",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-803a-a682-f170586c66cb",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "3.5 Covariance Formula",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80ce-a4db-c8112372ca90",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The formula for the covariance between two variables \\(X\\) and \\(Y\\) is:\n\\[\nCov(X,Y)=\\frac{\\sum_{i = 1}^{n}(x_{i}-\\bar{x})(y_{i}-\\bar{y})}{n - 1}\n\\]\nFormula Explanation: It measures the relationship between two variables, indicating how they vary together.\nCase Application: Let \\(X=\\{1, 2, 3\\}\\) with mean \\(\\bar{x}=2\\) and \\(Y=\\{4, 5, 6\\}\\) with mean \\(\\bar{y}=5\\)\n\\[\n\\begin{align*}\nCov(X,Y)&=\\frac{(1-2)(4 - 5)+(2-2)(5-5)+(3-2)(6-5)}{3-1}\\\\\n&=\\frac{1+0+1}{2}\\\\\n&=1\n\\end{align*}\n\\]\nAnswer: The covariance between \\(X\\) and \\(Y\\) is \\(1\\).",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80f7-a15e-f9e2823325e0",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "4. How to Use Statistics Calculator",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80f3-86c9-d3ca0775e674",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Input the data set: Enter the individual data points into the calculator. Some calculators may allow you to input the data in a list or one by one.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80d5-929e-c235b38d5881",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Select the calculation: Choose the specific statistical measure you want to calculate, such as mean, median, mode, variance, etc.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80ec-9ca9-ebff5f1fc4d4",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Get the result: The calculator will process the data based on the selected calculation and display the result. For example, if you input the data set {1, 3, 5, 7, 9} and select the mean calculation, the calculator will output \\(5\\).",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-803c-a309-e50696bdddaf",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "5. Formula Origin",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8008-bc78-d78ce2aff418",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The concepts and formulas in statistics have evolved over centuries. The idea of measures of central tendency like the mean has been used since ancient times in simple forms of accounting and record-keeping. The formal development of statistical theory began in the 17th and 18th centuries with the works of mathematicians and scientists interested in understanding probability and the analysis of data. For example, the variance and standard deviation formulas were developed as ways to quantify the spread of data, which became crucial in fields like astronomy (to account for errors in measurements) and later in social sciences and economics as the need to analyze large amounts of data and understand variability grew. The covariance formula was developed to study the relationships between variables, which is essential in regression analysis and understanding the interdependence of different factors in various fields of study.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80e9-98a8-e4f402a01024",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "6. FAQ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80a5-93c0-ca187889f016",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Q1: Can a data set have more than one mode?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80c2-9689-db31b7e497dd",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A: Yes, a data set can have more than one mode if multiple values occur with the same highest frequency. For example, in the set {2, 3, 3, 5, 5, 7}, both \\(3\\) and \\(5\\) are modes.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80da-8d66-d8e3d5e3ff8d",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Q2: What if the data set has an even number of values and the two middle values for the median are different?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8072-b803-f5d6171b4963",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A: You take the average of those two middle values. For example, in the set {2, 4, 6, 8}, the median is \\(\\frac{4+6}{2}=5\\)",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-801e-8bd9-f79e8aa078c7",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Q3: Why is the denominator \\(n- 1\\) in the sample variance formula?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80d5-8c52-e3a6d066d4f4",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A: Using \\(n - 1\\) instead of \\(n\\) gives a better estimate of the population variance from a sample. It corrects for the fact that the sample mean is used instead of the population mean and provides an unbiased estimate.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80b6-84e2-f0535640ac2f",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Q4: How does the standard deviation help in understanding data?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80a7-892f-d2d8776a1121",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A: The standard deviation gives an idea of how much the data points typically deviate from the mean. A small standard deviation indicates that the data points are close to the mean, while a large standard deviation means the data is more spread out.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80a1-afb4-fdf5e2b7bb4a",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Q5: Can the covariance be negative?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80ac-b38b-eb8089fd0742",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A: Yes, the covariance can be negative. A negative covariance indicates an inverse relationship between the two variables, meaning that as one variable increases, the other tends to decrease.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8002-b5dc-d2e30b4f4d65",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "7. Solved Examples on Statistics Calculator",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80c4-bd55-c11543b67291",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Example 1: Business Sales Analysis",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8069-a198-c08e8ad37406",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A company has the following sales figures (in thousands of dollars) for the last 6 months: {12, 15, 18, 13, 17, 14}. Calculate the mean and standard deviation.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80a8-b568-fce4179ca182",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Solution:\nMean:\n\\[\n\\begin{align*}\n\\bar{x}&=\\frac{12+15+18+13+17+14}{6}\\\\\n&=\\frac{89}{6}\\approx14.83\n\\end{align*}\n\\]\nVariance:\n\\[\n\\begin{align*}\ns^{2}&=\\frac{(12-14.83)^{2}+(15-14.83)^{2}+(18-14.83)^{2}+(13-14.83)^{2}+(17-14.83)^{2}+(14-14.83)^{2}}{6-1}\\\\\n&=\\frac{7.9889+0.0289+9.9889+3.3489+4.6689+0.6889}{5}\\\\\n&=\\frac{26.7134}{5}\\approx5.34\n\\end{align*}\n\\]\nStandard Deviation: \\(s=\\sqrt{5.34}\\approx2.31\\)\nAnswer: The mean is approximately \\(14.83\\) thousand dollars and the standard deviation is approximately \\(2.31\\) thousand dollars.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80e5-9b61-fffedea85603",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Example 2: Student Grades Analysis",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-808d-99b9-fc6a168187d5",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "In a class, the test scores of 8 students are {75, 80, 90, 65, 70, 85, 95, 78}. Find the median and mode.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8025-874c-e8eb193354c1",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Solution:\nFirst, we sort the data set: {65, 70, 75, 78, 80, 85, 90, 95}\nMedian: Since \\(n = 8\\) (even), the median is the average of the \\(\\frac{8}{2}^{th}\\) and \\(\\left(\\frac{8}{2}+ 1\\right)^{th}\\) values, which is \\(\\frac{78+80}{2}=79\\)\nMode: There is no mode as each value appears only once.\nAnswer: The median is \\(79\\) and there is no mode.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8089-a52e-f68cf1659ed9",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Example 3: Environmental Data Analysis",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80d5-af89-f4895b97fa85",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The following are the daily temperature readings (in degrees Celsius) for a week: {20, 22, 23, 19, 21, 24, 20}. Calculate the variance.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80f3-bbde-f9a6d0311bec",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Solution:\nMean:\n\\[\n\\begin{align*}\n\\bar{x}&=\\frac{20+22+23+19+21+24+20}{7}\\\\\n&=\\frac{149}{7}\\approx21.29\n\\end{align*}\n\\]\nVariance:\n\\[\n\\begin{align*}\ns^{2}&=\\frac{(20-21.29)^{2}+(22-21.29)^{2}+(23-21.29)^{2}+(19-21.29)^{2}+(21-21.29)^{2}+(24-21.29)^{2}+(20-21.29)^{2}}{7-1}\\\\\n&=\\frac{1.6641+0.4961+2.9241+5.2441+0.0841+7.3961+1.6641}{6}\\\\\n&=\\frac{19.4727}{6}\\approx3.25\n\\end{align*}\n\\]\nAnswer: The variance is approximately \\(3.25\\) degrees Celsius squared.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Statistics Calculator",
+    "lastUpdated": "2024-12-03T15:42:14.229Z"
+  },
+  "toc": [
+    {
+      "id": "sss-ssss",
+      "text": "Statistics Calculator - Your Essential Tool for Data Analysis",
+      "level": 1,
+      "children": [
+        {
+          "id": "wssss",
+          "text": "1. What is Statistics Calculator?",
+          "level": 2
+        },
+        {
+          "id": "sss",
+          "text": "2. Statistics Calculator Formula",
+          "level": 2,
+          "children": [
+            {
+              "id": "",
+              "text": "2.1 Mean Formula",
+              "level": 3
+            }
+          ]
+        },
+        {
+          "id": "",
+          "text": "3. Formula Change",
+          "level": 2,
+          "children": [
+            {
+              "id": "",
+              "text": "3.1 Median Formula",
+              "level": 3
+            },
+            {
+              "id": "",
+              "text": "3.2 Mode Formula",
+              "level": 3
+            },
+            {
+              "id": "",
+              "text": "3.3 Variance Formula",
+              "level": 3
+            },
+            {
+              "id": "s",
+              "text": "3.4 Standard Deviation Formula",
+              "level": 3
+            },
+            {
+              "id": "",
+              "text": "3.5 Covariance Formula",
+              "level": 3
+            }
+          ]
+        },
+        {
+          "id": "wssss",
+          "text": "4. How to Use Statistics Calculator",
+          "level": 2
+        },
+        {
+          "id": "",
+          "text": "5. Formula Origin",
+          "level": 2
+        },
+        {
+          "id": "",
+          "text": "6. FAQ",
+          "level": 2,
+          "children": [
+            {
+              "id": "s",
+              "text": "Q1: Can a data set have more than one mode?",
+              "level": 3
+            },
+            {
+              "id": "wsssws",
+              "text": "Q2: What if the data set has an even number of values and the two middle values for the median are different?",
+              "level": 3
+            },
+            {
+              "id": "ws\\--",
+              "text": "Q3: Why is the denominator \\(n- 1\\) in the sample variance formula?",
+              "level": 3
+            },
+            {
+              "id": "wsss",
+              "text": "Q4: How does the standard deviation help in understanding data?",
+              "level": 3
+            },
+            {
+              "id": "",
+              "text": "Q5: Can the covariance be negative?",
+              "level": 3
+            }
+          ]
+        },
+        {
+          "id": "sssss",
+          "text": "7. Solved Examples on Statistics Calculator",
+          "level": 2,
+          "children": [
+            {
+              "id": "sssssss",
+              "text": "Example 1: Business Sales Analysis",
+              "level": 3
+            },
+            {
+              "id": "ssss",
+              "text": "Example 2: Student Grades Analysis",
+              "level": 3
+            },
+            {
+              "id": "ss",
+              "text": "Example 3: Environmental Data Analysis",
+              "level": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

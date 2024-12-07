@@ -1,0 +1,2022 @@
+{
+  "blocks": [
+    {
+      "id": "151e4db6-1239-80f8-8bf7-d99e09c51188",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "What is a Percentage Convert Calculator?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80ac-8d7b-c8d09aef05b3",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Percentage convert is a process that allows you to change a value expressed as a percentage into other forms such as decimals, fractions, or vice versa. It helps in various fields like finance, mathematics, statistics, and everyday life to make comparisons, calculations, and understand proportions more easily. For example, if you know that a store is offering a 25% discount, you might want to convert this percentage into a decimal to calculate the actual amount of money you will save on a purchase.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80e5-92d2-f78d529e161d",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "A percentage convert calculator is a tool designed to transform values between different percentage - related formats. It simplifies mathematical operations by allowing quick and accurate conversions. For example, it can convert a decimal like 0.75 to a percentage (75%), a fraction (3/4), per mille (750‰), basis points (7500 bps), or parts per 10,000 (7500 ppm).",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8091-aadf-ce3507c49d6f",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "Percentage Conversion Formulas",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80a4-ba33-c837dde5a616",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "1. Decimal to Percentage",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8001-8858-e27b6afffebd",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": Decimal × 100",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-801b-b288-d6370748a86c",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": If you have a decimal number 0.3, to convert it to a percentage, you use the formula 0.3×100 = 30%.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8097-9cea-c24aa49ddafe",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Use Case",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": In a business context, if the profit margin of a product is calculated as a decimal (e.g., 0.2 for 20%), converting it to a percentage makes it easier to present in reports.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8020-84a4-c28a515be515",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "2. Percentage to Decimal",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8045-9ee2-cf8b071f1197",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": Percentage ÷ 100",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8081-b770-f1848ed52aa5",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": If you have 45%, converting it to a decimal gives 45÷100 = 0.45.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-802d-947f-f08332ec8ebe",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Use Case",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": In financial calculations, interest rates may be given as percentages, but for some mathematical models, they need to be in decimal form.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80a2-89a7-dcfc48fc888d",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "3. Fraction to Percentage",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8079-b46c-e32b8992eda4",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": (Numerator ÷ Denominator)×100",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8001-8428-d02c8567eabd",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": For the fraction 2/5, (2÷5)×100 = 40%.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8005-a426-d3f0f1837269",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Use Case",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": In educational settings, students often need to convert fractions to percentages to understand proportions better.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8069-bf6e-f258eb4bc6ca",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "4. Percentage to Fraction",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-806d-8a9a-f425b3f19a00",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": Percentage/100, then simplify the fraction",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-809e-8db0-feee3fd8e343",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": For 60%, 60/100 = 3/5 after simplification.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-802d-b31e-daacb6ad6944",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Use Case",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": In recipe conversions, if a recipe calls for a certain percentage of an ingredient and you want to express it as a fraction for measurement purposes.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8046-a651-ece1406a31af",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "5. Percentage to Per Mille",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80c1-b721-ddff952decf8",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": Percentage × 10",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-805e-9cac-cc2a0b40b572",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": Converting 20% to per mille gives 20×10 = 200‰.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8093-9a9e-ddc7b141e8d4",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Use Case",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": In demographic studies, per mille is sometimes used to represent small proportions of a population.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8071-bf0a-e20636df48a0",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "6. Per Mille to Percentage",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80e2-9b3f-e429f92756fa",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": Per Mille ÷ 10",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80cd-888b-d2ff8d671aa5",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": If you have 300‰, 300÷10 = 30%.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-802a-ad93-d61ecee20c30",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Use Case",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": When comparing data between different studies that use different notations.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80f0-b79c-ed5e1c438a38",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "7. Percentage to Basis Points",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80db-ae1f-f12111a28819",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": Percentage × 100",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-809a-bb73-d2d39be65c79",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": Converting 1.5% to basis points gives 1.5×100 = 150 bps.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8024-a0c2-dec21eeac8ac",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Use Case",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": In financial markets, basis points are commonly used to express changes in interest rates or bond yields.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80f6-876a-d2a7335b2dd0",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "8. Basis Points to Percentage",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-801a-8ea3-f4343f715678",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": Basis Points ÷ 100",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8014-9858-cbb8dff4df42",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": If you have 250 bps, 250÷100 = 2.5%.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8068-8c32-d5ce8ae96406",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Use Case",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": In investment analysis, when interpreting changes in financial instruments.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8005-93ba-ee3b8cf65298",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "9. Percentage to Parts per 10,000",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8031-93e9-e517df2d3f4c",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": Percentage × 100",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-802a-9df0-c959b9f51364",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": Converting 0.8% to parts per 10,000 gives 0.8×100 = 80 ppm.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8055-823a-d16fd31ae22f",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Use Case",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": In environmental science, ppm is used to measure pollutant concentrations.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80a6-b4b3-e1c82cd4c2c6",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "Formula Changes and Considerations",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80e7-9212-e0d1d0ca5ade",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "1. Rounding in Conversions",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8026-a5ff-d8d0769e0aca",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "When converting between formats, rounding may be necessary. For example, when converting a fraction like 1/3 to a percentage, (1÷3)×100 ≈ 33.33%. Depending on the context, you may need to round to a certain number of decimal places.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8021-adb9-e9b3d1c5501d",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "In financial calculations, rounding rules are often strict to ensure accurate accounting. For example, when converting interest rates with many decimal places, rounding to the appropriate number of decimal places is crucial.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-801a-93e8-dfd56196600a",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "2. Precision in Different Fields",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-807f-8aff-c9950cc0bb10",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "In scientific research, high - precision conversions are required. For example, when converting ppm to percentages in chemical analysis, precision is essential to ensure accurate results.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8069-b69f-c91b96b4c92a",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "In everyday calculations, less precision may be acceptable. For instance, when estimating discounts in a store, rounding to the nearest whole number may be sufficient.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-801e-a743-dc390028cd83",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "How to Use the Percentage Convert Calculator",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8076-995b-f4e8fc4d5fc4",
+      "type": "numbered_list_item",
+      "content": [
+        {
+          "text": "Select the Source Format",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ],
+      "children": [
+        {
+          "id": "4e93b416-41de-4ea9-9844-4cedf4b9cf59",
+          "type": "bulleted_list_item",
+          "content": [
+            {
+              "text": "In the \"From Format\" dropdown, choose the format of the value you have. For example, if you have a decimal number, select \"Decimal\".",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-806d-94cf-f6b6dd0efa70",
+      "type": "numbered_list_item",
+      "content": [
+        {
+          "text": "Select the Target Format",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ],
+      "children": [
+        {
+          "id": "4bcc06d7-4118-4a14-b927-4f34a1bda35e",
+          "type": "bulleted_list_item",
+          "content": [
+            {
+              "text": "In the \"To Format\" dropdown, select the format you want to convert to. For instance, if you want to convert your value to a percentage, select \"Percentage (%)\".",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80ba-a134-fe110f39a95e",
+      "type": "numbered_list_item",
+      "content": [
+        {
+          "text": "Enter the Value (if applicable)",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ],
+      "children": [
+        {
+          "id": "989f33c2-0246-4e3b-96cf-f968c83e038a",
+          "type": "bulleted_list_item",
+          "content": [
+            {
+              "text": "Some calculators may require you to enter the value in the selected source format. For example, if you selected \"Decimal\" as the source format, you would enter the decimal number.",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8019-b123-f2518f9716b0",
+      "type": "numbered_list_item",
+      "content": [
+        {
+          "text": "Click the Convert Button (if available)",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ],
+      "children": [
+        {
+          "id": "d76d3ce1-490e-4d49-97d9-2922d8e64d29",
+          "type": "bulleted_list_item",
+          "content": [
+            {
+              "text": "Some interfaces may have a button to initiate the conversion. In the screenshot, it seems the conversion may happen automatically once the formats are selected.",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8039-8bcd-ff7b68818d2b",
+      "type": "numbered_list_item",
+      "content": [
+        {
+          "text": "View the Result",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ],
+      "children": [
+        {
+          "id": "56476214-c7b1-4bd6-8b09-c6a5c76b21f6",
+          "type": "bulleted_list_item",
+          "content": [
+            {
+              "text": "The converted value will be displayed either in a designated result field or in place of the original value, depending on the calculator's design.",
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-805d-b548-c5e2e50ee09c",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "Formula Origin and Development",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8057-a1c2-d9da10acaca5",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "The basic formula for converting a decimal to a percentage (Decimal × 100) comes from the definition of a percentage as a proportion out of 100. If a decimal represents a part of a whole, multiplying by 100 scales it to a percentage.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80be-90c5-ff02e4ac170a",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "The conversion of fractions to percentages [(Numerator ÷ Denominator)×100] is based on the same principle of expressing a proportion out of 100.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8009-8a47-e3dfc14861da",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "The development of conversions to more specialized formats like per mille, basis points, and parts per 10,000 came from the need in specific fields such as finance, demography, and environmental science to express small proportions in a more meaningful and convenient way.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-807a-bc6f-d4210923cd3d",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "FAQ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8089-8b2f-f3d0d673892c",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "1. How accurate is the percentage convert calculator?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-805e-b22d-db4b31d93fca",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "The accuracy depends on the precision of the input and the algorithms used. For most common conversions, the calculator is highly accurate. However, in some cases, rounding may introduce a small degree of error. For example, when converting repeating decimals to percentages, the rounded result may be slightly off.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8096-bbc2-c67b98399cf8",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "2. Can I convert multiple values at once?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80c4-b8b6-cad3cc00aeb9",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "The calculator in the screenshot appears to be designed for single - value conversions. However, some advanced software may allow batch conversions. For example, in a spreadsheet program, you can use formulas to convert multiple values simultaneously.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-805f-9ca3-e43b6081c552",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "3. What if I enter an invalid value?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8028-9fe5-d286cef4c87c",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "If you enter an invalid value, such as a non - numeric character in a field that expects a number, the calculator may display an error message or fail to produce a result. It is important to ensure that the input values are in the correct format.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80ab-8ec3-f3bb8c8d4e2e",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "4. Are there mobile apps available for percentage conversion?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-801c-8988-dcb47a685a06",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Yes, there are many mobile apps available for percentage conversion. These apps often have additional features such as unit conversions and more complex mathematical functions. Some popular math apps include MyScript Calculator and Calculator Plus.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80a9-b820-e814ce6712c8",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "5. How can I check the conversion manually?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8073-af3e-e7446e2f99cb",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "You can check the conversion manually by using the formulas mentioned above. For example, to check a decimal to percentage conversion, multiply the decimal by 100. If you used the calculator to convert 0.4 to a percentage and got 40%, you can verify it by 0.4×100 = 40%.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80d9-b984-c4df7bebec7a",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "Solved Examples on Percentage Conversion",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8092-bf96-c4182647b8c8",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Example 1: Convert 0.65 to a percentage, fraction, per mille, basis points, and parts per 10,000.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80b6-9b5a-e679d9b1cdc1",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Percentage",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": 0.65×100 = 65%",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80a3-8816-fb216302e6ac",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Fraction",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": 0.65 = 65/100 = 13/20",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-806f-9445-cba3b318a41e",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Per Mille",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": 0.65×10 = 650‰",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80bb-98d2-cb6f61fe2abb",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Basis Points",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": 0.65×100 = 65 bps",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8030-b3cd-c235dc235856",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Parts per 10,000",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": 0.65×100 = 65 ppm",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8095-8d34-dd9db84a802c",
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "Example 2: Convert 80% to a decimal, fraction, per mille, basis points, and parts per 10,000.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80a2-bdbe-cb26e97cf75d",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Decimal",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": 80÷100 = 0.8",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8044-af4d-d4618a1c9f56",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Fraction",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": 80/100 = 4/5",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8011-8046-d06e097aaba3",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Per Mille",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": 80×10 = 800‰",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-802c-b5de-d65c2020103d",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Basis Points",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": 80×100 = 8000 bps",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-809d-9fe6-c7bad1ba324c",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Parts per 10,000",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": ": 80×100 = 8000 ppm",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Percentage Convert Calculator",
+    "lastUpdated": "2024-12-03T15:42:19.803Z"
+  },
+  "toc": [
+    {
+      "id": "ws",
+      "text": "What is a Percentage Convert Calculator?",
+      "level": 2
+    },
+    {
+      "id": "ss",
+      "text": "Percentage Conversion Formulas",
+      "level": 2,
+      "children": [
+        {
+          "id": "",
+          "text": "1. Decimal to Percentage",
+          "level": 3
+        },
+        {
+          "id": "",
+          "text": "2. Percentage to Decimal",
+          "level": 3
+        },
+        {
+          "id": "",
+          "text": "3. Fraction to Percentage",
+          "level": 3
+        },
+        {
+          "id": "",
+          "text": "4. Percentage to Fraction",
+          "level": 3
+        },
+        {
+          "id": "",
+          "text": "5. Percentage to Per Mille",
+          "level": 3
+        },
+        {
+          "id": "",
+          "text": "6. Per Mille to Percentage",
+          "level": 3
+        },
+        {
+          "id": "sss",
+          "text": "7. Percentage to Basis Points",
+          "level": 3
+        },
+        {
+          "id": "sss",
+          "text": "8. Basis Points to Percentage",
+          "level": 3
+        },
+        {
+          "id": "s",
+          "text": "9. Percentage to Parts per 10,000",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "sss",
+      "text": "Formula Changes and Considerations",
+      "level": 2,
+      "children": [
+        {
+          "id": "ss",
+          "text": "1. Rounding in Conversions",
+          "level": 3
+        },
+        {
+          "id": "ss",
+          "text": "2. Precision in Different Fields",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "ws",
+      "text": "How to Use the Percentage Convert Calculator",
+      "level": 2
+    },
+    {
+      "id": "",
+      "text": "Formula Origin and Development",
+      "level": 2
+    },
+    {
+      "id": "",
+      "text": "FAQ",
+      "level": 2,
+      "children": [
+        {
+          "id": "ws",
+          "text": "1. How accurate is the percentage convert calculator?",
+          "level": 3
+        },
+        {
+          "id": "s",
+          "text": "2. Can I convert multiple values at once?",
+          "level": 3
+        },
+        {
+          "id": "w",
+          "text": "3. What if I enter an invalid value?",
+          "level": 3
+        },
+        {
+          "id": "ss",
+          "text": "4. Are there mobile apps available for percentage conversion?",
+          "level": 3
+        },
+        {
+          "id": "ws",
+          "text": "5. How can I check the conversion manually?",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "id": "sss",
+      "text": "Solved Examples on Percentage Conversion",
+      "level": 2,
+      "children": [
+        {
+          "id": "ssss",
+          "text": "Example 1: Convert 0.65 to a percentage, fraction, per mille, basis points, and parts per 10,000.",
+          "level": 3
+        },
+        {
+          "id": "ssss",
+          "text": "Example 2: Convert 80% to a decimal, fraction, per mille, basis points, and parts per 10,000.",
+          "level": 3
+        }
+      ]
+    }
+  ]
+}

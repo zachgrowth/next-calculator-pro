@@ -1,0 +1,5 @@
+{
+  "/page": "app/page.js",
+  "/health/bmi/page": "app/health/bmi/page.js",
+  "/calculators/body-fat/page": "app/calculators/body-fat/page.js"
+}

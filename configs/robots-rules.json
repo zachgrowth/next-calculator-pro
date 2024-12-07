@@ -1,0 +1,44 @@
+[
+  {
+    "userAgent": "*",
+    "rules": [
+      {
+        "type": "allow",
+        "path": "/"
+      },
+      {
+        "type": "disallow",
+        "path": "/api/"
+      },
+      {
+        "type": "disallow",
+        "path": "/admin/"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "userAgent": "Googlebot",
+    "rules": [
+      {
+        "type": "allow",
+        "path": "/"
+      },
+      {
+        "type": "allow",
+        "path": "/api/seo/"
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "userAgent": "bing",
+    "rules": [
+      {
+        "type": "allow",
+        "path": "/"
+      }
+    ],
+    "enabled": true
+  }
+]

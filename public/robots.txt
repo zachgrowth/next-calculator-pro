@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+User-agent: Googlebot
+Allow: /
+Allow: /api/seo/
+
+User-agent: bing
+Allow: /
+
+Sitemap: https://calculatorhub.com/sitemap.xml

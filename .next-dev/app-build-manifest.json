@@ -1,0 +1,27 @@
+{
+  "pages": {
+    "/health/bmi/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/health/bmi/page.css",
+      "static/chunks/app/health/bmi/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/calculators/body-fat/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/calculators/body-fat/page.css",
+      "static/chunks/app/calculators/body-fat/page.js"
+    ]
+  }
+}

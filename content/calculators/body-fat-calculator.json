@@ -1,0 +1,2018 @@
+{
+  "blocks": [
+    {
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "Body Fat Percentage Calculator - Your Comprehensive Guide",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "1. What Exactly is Body Fat Percentage?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Body fat percentage represents the proportion of fat tissue in the human body relative to the total body weight, expressed as a percentage. For instance, if a person has a body fat percentage of 20%, it means that 20% of their total body weight is composed of fat. This measurement is of great significance as it can more accurately reflect the body composition compared to simply relying on body weight. It is helpful in assessing health risks, determining fitness levels, and setting appropriate fitness goals. A healthy body fat percentage is not fixed and varies depending on factors such as age, gender, and activity level.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "2. How to calculate Body Fat Percentage ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "2.1 Skinfold Caliper Measurement ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The formula principle is to substitute the sum of skinfold measurements (usually taken at specific sites such as triceps, biceps, subscapular, and suprailiac) into a regression equation. For men: Body Fat Percentage = (a + (b × sum of skinfolds)) - (c × age), where a, b, and c are constants specific to the equation. For example, using the Jackson-Pollock 3-site formula for men: a = 1.10938, b = 0.0008267, c = 0.0000016.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Example 1 (Fitness Enthusiast):\n",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": "A 25-year-old male fitness enthusiast has a sum of skinfold measurements of 40 mm at triceps, subscapular, and suprailiac.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "content": {
+        "url": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb",
+        "caption": []
+      }
+    },
+    {
+      "type": "equation",
+      "content": []
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "(1.10938 + (0.0008267 × 40)) - (0.0000016 × 25)\n= (1.10938 + 0.033068) - 0.00004\n≈ 14.2%",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "equation",
+      "content": []
+    },
+    {
+      "type": "equation",
+      "content": []
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "/math",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": "\nSolution: Body Fat Percentage = (1.10938 + (0.0008267 × 40)) - (0.0000016 × 25)\n= (1.10938 + 0.033068) - 0.00004\n≈ 14.2%",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": "\nHe can adjust his training and diet plan accordingly.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Example 2 (Athlete):\n",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": "A 30-year-old athlete has a sum of skinfold measurements of 30 mm.\nSolution: Body Fat Percentage = (1.10938 + (0.0008267 × 30)) - (0.0000016 × 30)\n= (1.10938 + 0.024801) - 0.000048\n≈ 13.5%",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": "\nTo maintain the required body fat state for competition.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "2.2 Bioelectrical Impedance Analysis (BIA) /Bioimpedance method",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The formula works by sending a small, safe electrical current through the body and measuring the resistance. Subsequently, the body fat percentage is calculated based on an algorithm that takes into account factors such as height, weight, age, gender, and the measured resistance. Different BIA devices may have slightly different algorithms. For example, a common BIA formula might be Body Fat Percentage = d + (e × resistance) + (f × age) + (g × gender factor), where d, e, f, and g are constants.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Example 1 (Home Fitness Tracker User):\nA 28-year-old, 60 kg, 165 cm tall female uses a home BIA fitness tracker with a measured resistance of 450 ohms. Assume the constants are d = -9.79, e = 0.046, f = 0.0002, g = -0.099.\nSolution: Body Fat Percentage = -9.79 + (0.046 × 450) + (0.0002 × 28) + (-0.099 × 1)\n= -9.79 + 20.7 + 0.0056 - 0.099\n≈ 10.8%\nThis helps her plan her home fitness activities.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Example 2 (Gym Member):\nA 32-year-old male, weighing 75 kg and 180 cm tall, uses a BIA machine at the gym with a measured resistance of 500 ohms. [With corresponding constants, the calculation process is as follows].\nSolution: Body Fat Percentage = [Corresponding calculation process]\n= [Result]\nIf the body fat increases, he can adjust his exercise and nutrition plan.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "2.3 Dual-Energy X-Ray Absorptiometry (DXA) ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "DXA uses X-ray beams of two different energy levels to measure bone mineral density, lean body mass, and fat mass. The body fat percentage is then calculated as Body Fat Percentage = Fat Mass / (Lean Body Mass + Fat Mass) × 100.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Example 1 (Research Participant):\nIn a research study, a participant has a fat mass of 15 kg and a lean body mass of 50 kg.\nSolution: Body Fat Percentage = (15 / (15 + 50)) × 100\n≈ 23.1%\nHelping to study the relationship between body fat and health parameters.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Example 2 (Clinical Diagnosis):\nA patient undergoes a DXA scan with a fat mass of 20 kg and a lean body mass of 60 kg.\nSolution: Body Fat Percentage = (20 / (20 + 60)) × 100\n= 25%\nProviding a basis for doctor's diagnosis.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "2.4 Navy Body Fat Calculation Approach ",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "This method was developed by the Naval Health Research Center in San Diego, California. It calculates body fat percentage based on simple body measurements. For men, the formula is ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Body Fat = [86.010 × log₁₀(waist - neck)] - [70.041 × log₁₀(height)] + 36.76",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": []
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "% Body Fat = [86.010 × log₁₀(waist - neck)] - [70.041 × log₁₀(height)] + 36.76. ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "For example, if a man has a height of 180 cm, a waist circumference of 85 cm, and a neck circumference of 38 cm.Solution: % Body Fat = [86.010 × log₁₀(85 - 38)] - [70.041 × log₁₀(180)] + 36.76First, calculate log₁₀(85 - 38) ≈ 1.653 and log₁₀(180) ≈ 2.255.Then, substitute into the formula: % Body Fat = [86.010 × 1.653] - [70.041 × 2.255] + 36.76≈ 142.16 - 157.94 + 36.76≈ 21.0%",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "For women, the formula is % Body Fat = [163.205 × log₁₀(waist + hip - neck)] - [97.684 × log₁₀(height)] - 78.387. Suppose a woman has a height of 165 cm, a waist circumference of 70 cm, a hip circumference of 95 cm, and a neck circumference of 35 cm.Solution: % Body Fat = [163.205 × log₁₀(70 + 95 - 35)] - [97.684 × log₁₀(165)] - 78.387First, calculate log₁₀(70 + 95 - 35) = log₁₀(130) ≈ 2.114 and log₁₀(165) ≈ 2.217.Then, substitute into the formula: % Body Fat = [163.205 × 2.114] - [97.684 × 2.217] - 78.387≈ 344.91 - 216.07 - 78.387≈ 50.5%This method provides a relatively quick and easy way to estimate body fat percentage with only a measuring tape, although its accuracy may be less than that of DXA.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "3. ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": "Do you have a healthy body fat percentage?",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Body fat percentage is closely related to health status, and different genders and ranges have different implications:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "3.1 Men",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Low Body Fat Percentage (below 5%)",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": ": Commonly seen in professional bodybuilders during competition periods. Although the muscle lines are extremely obvious, it may be accompanied by health risks such as hormonal imbalance, decreased immunity, and affected reproductive function. Long-term stay in this state may lead to metabolic disorders in the body and even affect heart function.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Healthier Range (5% - 15%)",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": ": Possessing good muscle lines and high physical function, with active metabolism, relatively low risk of cardiovascular diseases, being able to adapt to high-intensity exercise and daily activities, full of energy, and having a lower probability of suffering from chronic diseases.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Moderate Body Fat Percentage (15% - 25%)",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": ": Belonging to a relatively common body fat range for ordinary adult men. Generally, the body is still in a relatively healthy state. However, if it approaches 25%, some health risks may start to appear, such as a slight increase in cardiovascular pressure and a decrease in endurance. At this time, it may be necessary to appropriately increase exercise and pay attention to adjusting the diet structure to prevent further increase in body fat.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "High Body Fat Percentage (above 25%)",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": ": When the body fat percentage exceeds 25%, the risk of suffering from cardiovascular diseases (such as hypertension, coronary heart disease, etc.), diabetes, joint diseases (due to increased pressure on joints caused by overweight) increases significantly. Physical activities may become slower, easy to feel tired, sleep quality may also be affected, and abnormal blood lipid may occur. Timely measures for fat reduction intervention are required, including reasonable diet control, regular aerobic exercise, and professional medical guidance when necessary.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "3.2 Women",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Low Body Fat Percentage (below 12%)",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": ": In women, a too-low body fat percentage may cause serious health problems. Besides hormonal imbalance similar to that in men (such as a decrease in estrogen secretion, which may lead to menstrual disorders or even amenorrhea), it will also increase the risk of osteoporosis because estrogen plays an important role in maintaining bone density. In addition, the skin may lose its luster and elasticity, the body's heat preservation ability decreases, and it is more sensitive to cold. Long-term persistence will cause great damage to overall health.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Healthier Range (12% - 25%)",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": ": Women in this range have a good physical state and can maintain normal physiological functions. They will neither face the risk of chronic diseases due to high body fat nor have the above health problems due to low body fat. In this interval, women can maintain a good body curve, and the flexibility and coordination of the body can also be well发挥, which is more favorable for the physiological preparation of pregnancy and childbirth.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Moderate Body Fat Percentage (25% - 35%)",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": ": As the body fat percentage rises to this range, women may face some health problems related to obesity, such as increased burden on the cardiovascular system, decreased insulin sensitivity, and an increased risk of type 2 diabetes. At the same time, the flexibility and exercise ability of the body will be somewhat limited, and it is easy to feel out of breath during daily activities. Moreover, psychological pressure may increase due to concerns about body image and health. It is necessary to gradually adjust the lifestyle to reduce the body fat level.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "High Body Fat Percentage (above 35%)",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": ": An extremely high body fat percentage puts women at a high risk of various chronic diseases. For example, the incidence of cardiovascular diseases increases significantly and may lead to serious consequences such as stroke. Respiratory function may be affected, and sleep apnea syndrome may occur. Joint wear and tear intensify, resulting in inconvenient movement and a serious decline in the quality of life. A systematic fat reduction and health management plan must be carried out under the guidance of a doctor or a professional fitness coach to improve the physical condition and reduce health risks.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "4. Common Body Fat Percentage Reference Tables and Measurement Methods",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "4.1 Common Body Fat Percentage Reference Tables",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The following are the reference ranges of body fat percentage for different groups of people:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "content": []
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "4.2 Body Fat Percentage Measurement Method Based on Height and Weight",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "In addition to the skinfold caliper measurement method, bioelectrical impedance analysis (BIA) method, and dual-energy X-ray absorptiometry (DXA) mentioned above, there is also a measurement method using height and weight data. The required measurement data is relatively simple, only a measuring tape is needed. The specific measurement sites and requirements are as follows:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Height",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": ": When measuring, it is necessary to keep the body upright and barefoot to ensure that the measured data accurately reflects the real height.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Neck",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": ": The measurement position is directly under the larynx (Adam's apple), and the circumference of the neck is measured around it.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Waist",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": ": For women, measure the circumference of the narrowest part of the abdomen. For men, measure the circumference at the level of the navel.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Hips",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": ": Measure the circumference of the widest part of the buttocks and hips.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The formula for calculating body fat percentage based on height and weight was developed by the Naval Health Research Center in San Diego, California.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Male Calculation Formula",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": ": % Body Fat = [86.010 × log₁₀(waist - neck)] - [70.041 × log₁₀(height)] + 36.76",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Female Calculation Formula",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        },
+        {
+          "text": ": % Body Fat = [163.205 × log₁₀(waist + hip - neck)] - [97.684 × log₁₀(height)] - 78.387",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Of course, if you find it troublesome to calculate by yourself, you can also use an online ideal body fat percentage calculator. Just input the corresponding height, weight, neck, waist, and hip data, and you can quickly obtain the estimated body fat percentage result. It should be noted that no matter which calculation method is used, the result may have a certain error range and can only be used as one of the reference bases for evaluating the body fat status and cannot completely replace professional medical testing and diagnosis. While paying attention to the body fat percentage, other health factors such as diet habits, exercise frequency, and family medical history should also be comprehensively considered to fully and accurately understand one's own health status and formulate a reasonable health management plan.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "5. Formula Variations and Considerations  ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "5.1 Adjustments for Different Population Groups",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Body fat calculations require special consideration of unique physical characteristics. For athletes with developed muscle mass, traditional measurement methods may deviate.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Key Considerations:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Muscle density variations",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Body composition changes across age groups",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Differences between children, adults, and elderly",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Example: For professional bodybuilders, standard skinfold caliper formulas might underestimate body fat percentage. Specialized formulas accounting for muscle density provide more precise estimations.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "5.2 Hydration Impact on BIA Formulas",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "\nBioelectrical Impedance Analysis (BIA) measurement results are significantly influenced by body hydration:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Dehydration causes body fat overestimation",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Excessive hydration leads to underestimation",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Practical Scenarios:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Immediate post-exercise measurement may show higher body fat due to sweating",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Pre-measurement water intake can lower recorded body fat percentage",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Example: An athlete forgets to hydrate properly before a BIA test at the gym and may get a body fat percentage reading higher than the actual one. If he only makes training and diet plans based on this inaccurate measurement, he may make wrong decisions.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "5.3 DXA Calibration and Accuracy",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Dual-Energy X-Ray Absorptiometry (DXA) accuracy depends on:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Regular equipment calibration",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Proper patient positioning",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Scanning process stability",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Potential Error Sources:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Patient movement during scanning",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Incorrect positioning",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Delayed equipment calibration",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "5.4 Layman's Technical Interpretation",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "\nThese technical details might seem complex. Simply put, body fat measurement is like taking a body \"photograph\" with different devices:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Skinfold calipers: Like measuring skin thickness with fingers",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Bioelectrical impedance: Scanning body with weak electrical current",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "DXA scanning: Using special X-rays to reveal body's internal structure",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "\nChoosing a method is like selecting a camera - each has pros and cons. Understanding results matters more than the measurement process.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "6. Body Fat Calculation Methods",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "6.1 Skinfold Caliper Measurement Method:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "First, prepare a set of accurate skinfold calipers.\nIdentify the specific measurement sites. For men, common sites include the chest, abdomen, and thigh. For women, it is usually the triceps, suprailiac, and thigh.\nPinch the skin and underlying fat firmly at the measurement site and place the calipers. Make sure the calipers are perpendicular to the skinfold.\nRecord the measurement in millimeters.\nRepeat the above operation process for all the required sites.\nSelect the appropriate regression formula according to your gender and age group. For example, if you are a man and use the Jackson-Pollock 3-site formula, substitute the sum of your skinfold measurements and your age into the formula Body Fat Percentage = (a + (b × sum of skinfolds)) - (c × age).",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "6.2 Bioelectrical Impedance Analysis (BIA) Method:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Stand on a BIA scale or hold the electrodes of the BIA device as instructed.\nInput personal information such as age, gender, height, and weight into the device.\nWait for the device to send a small electrical current through the body and measure the resistance.\nThe device will use its built-in algorithm, considering the input detailed information and the measured resistance to calculate the body fat percentage. For example, if the formula is Body Fat Percentage = d + (e × resistance) + (f × age) + (g × gender factor), the device will perform the necessary calculations.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "6.3 Dual-Energy X-Ray Absorptiometry (DXA) Method:",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Lie down on the DXA scanning table.\nThe machine will emit X-ray beams of two different energy levels.\nThe machine measures the attenuation of the X-rays as they pass through the body to determine bone mineral density, lean body mass, and fat mass.\nThen calculate the body fat percentage according to Body Fat Percentage = Fat Mass / (Lean Body Mass + Fat Mass) × 100.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "6.4 Navy Method:",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "To use the Navy Method, you need a measuring tape. Measure your height, making sure to stand straight and barefoot. Then measure the circumference of your neck, waist (for men at the navel level and for women at the narrowest part of the abdomen), and hips (the widest part). For men, use the formula % Body Fat = [86.010 × log₁₀(waist - neck)] - [70.041 × log₁₀(height)] + 36.76. For women, the formula is % Body Fat = [163.205 × log₁₀(waist + hip - neck)] - [97.684 × log₁₀(height)] - 78.387. Calculate as described in the formula section above. This method is convenient as it doesn't require specialized equipment like DXA, but it's important to note that its accuracy is relatively lower and may be affected by individual body shape differences and measurement errors.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_3",
+      "content": [
+        {
+          "text": "6.5 BMI Method:",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "BMI, or Body Mass Index, is a widely used indicator to assess the body's fatness or thinness based on the relationship between height and weight. The formula is BMI = weight (kg) / height² (m²). For example, if a person weighs 70 kg and is 1.75 m tall, the calculation would be 70 / (1.75²) ≈ 22.86.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "It is important to note that BMI is different from body fat percentage. While BMI gives a general idea of the body's mass in relation to height, it does not distinguish between fat and muscle mass. A bodybuilder with a high muscle mass may have a relatively high BMI but a healthy body fat percentage. Conversely, a sedentary individual with low muscle mass and a higher proportion of fat may have a similar BMI but a less favorable body fat percentage.In terms of health assessment, BMI has certain reference values. Generally, a BMI below 18.5 is considered underweight, which may indicate potential malnutrition or other health issues. A BMI between 18.5 and 23.9 is within the normal range. A BMI of 24 to 27.9 is classified as overweight, and 28 and above is obese. However, BMI has its limitations as it does not provide information about the distribution of body fat or the specific location of fat deposits. For a more comprehensive health evaluation, it is often necessary to combine BMI with other measures such as body fat percentage, waist circumference, and waist-to-hip ratio. Although BMI is not a direct method for calculating body fat, it can serve as an initial screening tool. If the BMI indicates overweight or obesity, it may prompt the need for more accurate body fat calculation methods, such as skinfold caliper measurement, BIA, or DXA, to determine the body fat percentage and assess potential health risks and develop appropriate health management plans.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "7. How to Use a Body Fat Percentage Calculator",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Most body fat percentage calculators, whether based on skinfold calipers, BIA, or DXA, require you to input specific information. For skinfold calipers, you need to accurately measure the skinfold thickness at the designated sites and then use the corresponding formula or a calculator with a built-in formula. For BIA devices, you usually need to input age, gender, height, and weight, and then the device will measure the resistance and calculate the body fat percentage using its internal algorithm. For DXA, you just need to lie on the scanning table, and the machine will complete all the measurements and calculations. The calculator or device will then display your body fat percentage. This information can be used to track your progress, set fitness goals, and assess your overall health related to body composition.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "href": null
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "body-fat Calculator",
+    "calculatorId": "body-fat-calculator",
+    "description": "Body Fat Percentage Calculator 120",
+    "status": "published",
+    "languages": [
+      "English"
+    ],
+    "lastUpdated": "2024-12-03T19:50:00.000Z"
+  },
+  "toc": [
+    {
+      "id": "body-fat-percentage-calculator---your-comprehensive-guide",
+      "text": "Body Fat Percentage Calculator - Your Comprehensive Guide",
+      "level": 2,
+      "children": [
+        {
+          "id": "1-what-exactly-is-body-fat-percentage",
+          "text": "1. What Exactly is Body Fat Percentage?",
+          "level": 2
+        },
+        {
+          "id": "2-how-to-calculate-body-fat-percentage-",
+          "text": "2. How to calculate Body Fat Percentage ",
+          "level": 2,
+          "children": [
+            {
+              "id": "21-skinfold-caliper-measurement-",
+              "text": "2.1 Skinfold Caliper Measurement ",
+              "level": 3
+            },
+            {
+              "id": "22-bioelectrical-impedance-analysis-bia-bioimpedance-method",
+              "text": "2.2 Bioelectrical Impedance Analysis (BIA) /Bioimpedance method",
+              "level": 3
+            },
+            {
+              "id": "23-dual-energy-x-ray-absorptiometry-dxa-",
+              "text": "2.3 Dual-Energy X-Ray Absorptiometry (DXA) ",
+              "level": 3
+            },
+            {
+              "id": "24-navy-body-fat-calculation-approach-",
+              "text": "2.4 Navy Body Fat Calculation Approach ",
+              "level": 3
+            }
+          ]
+        },
+        {
+          "id": "3-do-you-have-a-healthy-body-fat-percentage",
+          "text": "3. Do you have a healthy body fat percentage?",
+          "level": 2,
+          "children": [
+            {
+              "id": "31-men",
+              "text": "3.1 Men",
+              "level": 3
+            },
+            {
+              "id": "32-women",
+              "text": "3.2 Women",
+              "level": 3
+            }
+          ]
+        },
+        {
+          "id": "4-common-body-fat-percentage-reference-tables-and-measurement-methods",
+          "text": "4. Common Body Fat Percentage Reference Tables and Measurement Methods",
+          "level": 2,
+          "children": [
+            {
+              "id": "41-common-body-fat-percentage-reference-tables",
+              "text": "4.1 Common Body Fat Percentage Reference Tables",
+              "level": 3
+            },
+            {
+              "id": "42-body-fat-percentage-measurement-method-based-on-height-and-weight",
+              "text": "4.2 Body Fat Percentage Measurement Method Based on Height and Weight",
+              "level": 3
+            }
+          ]
+        },
+        {
+          "id": "5-formula-variations-and-considerations-",
+          "text": "5. Formula Variations and Considerations  ",
+          "level": 2,
+          "children": [
+            {
+              "id": "51-adjustments-for-different-population-groups",
+              "text": "5.1 Adjustments for Different Population Groups",
+              "level": 3
+            },
+            {
+              "id": "52-hydration-impact-on-bia-formulas",
+              "text": "5.2 Hydration Impact on BIA Formulas",
+              "level": 3
+            },
+            {
+              "id": "53-dxa-calibration-and-accuracy",
+              "text": "5.3 DXA Calibration and Accuracy",
+              "level": 3
+            },
+            {
+              "id": "54-laymans-technical-interpretation",
+              "text": "5.4 Layman's Technical Interpretation",
+              "level": 3
+            }
+          ]
+        },
+        {
+          "id": "6-body-fat-calculation-methods",
+          "text": "6. Body Fat Calculation Methods",
+          "level": 2,
+          "children": [
+            {
+              "id": "61-skinfold-caliper-measurement-method",
+              "text": "6.1 Skinfold Caliper Measurement Method:",
+              "level": 3
+            },
+            {
+              "id": "62-bioelectrical-impedance-analysis-bia-method",
+              "text": "6.2 Bioelectrical Impedance Analysis (BIA) Method:",
+              "level": 3
+            },
+            {
+              "id": "63-dual-energy-x-ray-absorptiometry-dxa-method",
+              "text": "6.3 Dual-Energy X-Ray Absorptiometry (DXA) Method:",
+              "level": 3
+            },
+            {
+              "id": "64-navy-method",
+              "text": "6.4 Navy Method:",
+              "level": 3
+            },
+            {
+              "id": "65-bmi-method",
+              "text": "6.5 BMI Method:",
+              "level": 3
+            }
+          ]
+        },
+        {
+          "id": "7-how-to-use-a-body-fat-percentage-calculator",
+          "text": "7. How to Use a Body Fat Percentage Calculator",
+          "level": 2
+        }
+      ]
+    }
+  ]
+}

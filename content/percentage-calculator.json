@@ -1,0 +1,1274 @@
+{
+  "blocks": [
+    {
+      "id": "151e4db6-1239-80b6-b137-ecd779c30530",
+      "type": "heading_1",
+      "content": [
+        {
+          "text": "Percentage Calculator - Your Ultimate Guide",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80de-98d7-d176aca48326",
+      "type": "heading_1",
+      "content": [
+        {
+          "text": "What is Percentage?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80f7-b1ff-d05c9fce7041",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Percentage is a number or ratio expressed as a fraction of 100. It is denoted by the symbol \"%\". For example, 25% means 25 out of 100. In our daily life, we use percentages to represent various situations such as discounts, grades, and proportions. Percentages are a fundamental concept in mathematics and are widely used in different fields, from finance to statistics, to express relative amounts or changes.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8084-bcaa-c060efc5a103",
+      "type": "heading_1",
+      "content": [
+        {
+          "text": "Percentage Formulas",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80ca-bd08-eeaae8c52dab",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "1. What is X percent of Y?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-802b-9149-d0adf9aaa4d7",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula: (X/100) * Y",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8029-a461-d165c1a7845d",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example 1 (Finance):",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " In the financial world, understanding percentages is crucial. Let's say you want to calculate the interest earned on a savings account. If the annual interest rate is 5% and you have $1000 in the account, you would use the formula (5/100) * 1000 = 0.05 * 1000 = $50. This shows that you would earn $50 in interest for the year. Another example could be when calculating a sales tax. If the tax rate is 8% and you are purchasing an item worth $200, then (8/100) * 200 = 0.08 * 200 = $16 is the amount of tax you need to pay.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80d5-8f3f-f4e83ce18c8a",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example 2 (Statistics):",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " Percentages are widely used in data analysis. For instance, in a survey of 200 people, if 30% said they prefer a certain brand, we can find the actual number of people using the formula. (30/100) * 200 = 0.3 * 200 = 60 people prefer that brand. In a different scenario, if a data set has 500 elements and you want to know what 15% of that is, (15/100) * 500 = 0.15 * 500 = 75 elements would be the answer.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-802e-89dc-c6fc6bbd90b9",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example 3 (Education):",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " Teachers often use percentages to calculate grades. Suppose an exam is worth 100 points and a student scored 70%. To find out the actual score, we use the formula. If the total marks of the exam are 150, then (70/100) * 150 = 0.7 * 150 = 105. This means the student scored 105 out of 150. Similarly, if a project is weighted 40% of the total grade and a student gets 85% on the project, and the total grade is out of 100, then (40/100) * 85 = 0.4 * 85 = 34 points contribute to the total grade from the project.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-805b-a4a5-e8da02627b93",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "2. X is what percent of Y?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80b8-99b7-c1a1eb410594",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula: (X/Y) * 100",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8086-ae9d-fc9ae5e28deb",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example 1 (Sales):",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " Sales teams use this formula to analyze their performance. If a salesperson sold 50 products out of a total inventory of 250, to find out what percentage of the inventory was sold, we calculate (50/250) * 100 = 0.2 * 100 = 20%. In another case, if a store sold $3000 worth of goods in a day and the total monthly sales target is $15000, then (3000/15000) * 100 = 0.2 * 100 = 20% of the monthly target was achieved in that day.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8058-94a2-dcd54d6d368e",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example 2 (Population):",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " In demographics, this formula helps in understanding population characteristics. If a town has 8000 people and 2000 of them are senior citizens, to find the percentage of senior citizens, we do (2000/8000) * 100 = 0.25 * 100 = 25%. In a larger context, if a country has a population of 50 million and 10 million are unemployed, then (10000000/50000000) * 100 = 20% is the unemployment rate.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80c7-a2ad-efbd1d8233bd",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example 3 (Manufacturing):",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " Quality control in manufacturing relies on this formula. If a factory produced 1000 widgets and 50 were defective, to find the defect percentage, we calculate (50/1000) * 100 = 0.05 * 100 = 5%. If in a batch of 5000 products, 300 are found to be substandard, then (300/5000) * 100 = 0.06 * 100 = 6% of the products are substandard.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80a2-bc94-fba06ded6079",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "3. What is the percentage increase/decrease?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-803f-9a4b-fcada1ed0e3b",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula: ((Y - X)/X) * 100",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80ee-a5b4-c6136bde0dc6",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example 1 (Price):",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " Consumers and businesses closely monitor price changes. If the price of a product increased from $80 to $100, to find the percentage increase, we use the formula ((100 - 80)/80) * 100 = (20/80) * 100 = 0.25 * 100 = 25%. If a service cost was $120 last year and is now $150, then ((150 - 120)/120) * 100 = (30/120) * 100 = 0.25 * 100 = 25% increase.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80e7-b36f-ed72d545a9c8",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example 2 (Population Growth):",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " Demographers study population trends using this formula. If a city's population grew from 50000 to 60000, the percentage increase is ((60000 - 50000)/50000) * 100 = (10000/50000) * 100 = 0.2 * 100 = 20%. If a village population increased from 2000 to 2500, then ((2500 - 2000)/2000) * 100 = (500/2000) * 100 = 0.25 * 100 = 25% growth.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8056-a3d7-e2cdb798183e",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example 3 (Production):",
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        },
+        {
+          "text": " Factory managers assess production growth with this. If a plant's production increased from 1000 units to 1300 units, the percentage increase is ((1300 - 1000)/1000) * 100 = (300/1000) * 100 = 0.3 * 100 = 30%. If a workshop's output rose from 500 pieces to 650 pieces, then ((650 - 500)/500) * 100 = (150/500) * 100 = 0.3 * 100 = 30% increase.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80d0-815c-fc454f8fccf7",
+      "type": "heading_1",
+      "content": [
+        {
+          "text": "Formula Changes",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80e0-ad95-c6e6da46666e",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "1. Percentage of a number ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8067-9c04-d2c47c97c8b1",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula: P% * A = B (P is the percentage, A is the number, B is the result)",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8097-a1ea-c3c2cb0a90b0",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example: What is 15% of 120?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8083-8028-fe47f25293e2",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "      Solution: 15% * 120 = 0.15 * 120 = 18. In this case, P = 15%, A = 120, and B = 18. This formula is highly useful in multiple scenarios. ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8010-a8ff-f4e92643d5b4",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "     In finance, it can calculate the amount of tax on an income. If the tax rate is 25% and your income is $80,000, then 25% * 80000 = 0.25 * 80000 = $20,000 is the tax amount. In retail, if a product is discounted by 30% and its original price is $150, 30% * 150 = 0.3 * 150 = $45 is the discount amount, and the sale price would be $150 - $45 = $105.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80b6-a125-c48ff3622421",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "2. Number as a percentage of another number ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80e9-932f-ea70fe54d85b",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula: B/A = P% (B is the number to be compared, A is the reference number, P is the percentage)",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80b1-a6ca-d3952795eade",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example: 25 is what percent of 150? ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80f3-9888-ed33783fde5b",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "     Solution: 25/150 = 0.167. Multiply by 100 to get the percentage: 0.167 * 100 = 16.7%. ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80ae-8ff0-d6bd05aa510c",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "    This formula has wide applications. In market research, if 50 out of 500 respondents prefer a certain brand, 50/500 = 0.1, and 0.1 * 100 = 10% shows the preference percentage. In sports analytics, if a player scored 30 goals out of 100 attempts, 30/100 = 0.3, and 0.3 * 100 = 30% is the goal-scoring percentage.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-803e-97a8-d69228a27f88",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "3. Finding the base number ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-804b-b2cd-c8a5b53d750e",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula: B/P% = A (B is the result of a percentage calculation, P is the percentage, A is the original number)",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-808d-8155-cb78747d9eb0",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example: 30 is 15% of what? ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80f0-9bf4-ca17bf3866a7",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "       Solution: 30/15% = 30/0.15 = 200. This formula is valuable in many situations. ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80e6-8955-c1969d7a3607",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "      In investment, if you earned $600 in interest at a 5% rate, 600/5% = 600/0.05 = $12,000 is the principal amount. In business, if a company's profit is $40,000 which is 20% of the revenue, 40000/20% = 40000/0.2 = $200,000 is the revenue.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-808a-a10a-c188a1311e41",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "4. Percentage change between two numbers ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8012-a089-d5ba6f5c8804",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula: (B - A)/A = P% (A and B are two numbers, P is the percentage change)",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80f5-a335-f3d2c9826176",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example: What is the percentage change from 35 to 55? Solution: (55 - 35)/35 = 0.571. Multiply by 100 to get the percentage: 0.571 * 100 = 57.1%. ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8018-9bf4-e40367975a9b",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "       This formula is essential in analyzing trends. In economics, if the GDP of a country increased from $1 trillion to $1.2 trillion, (1.2 - 1)/1 * 100 = 20% is the growth rate. In technology, if the market share of a company grew from 10% to 15%, (0.15 - 0.1)/0.1 * 100 = 50% increase.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80c7-9361-e2ebc8b90b22",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "5. Converting percentage to fraction ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8068-899f-e432f2e7d50f",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Formula: P% = P/100 (P is the percentage)",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8006-827d-c39247b8e1c4",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "Example: Convert 25% to a fraction. Solution: 25% = 25/100 = 1/4. ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-804f-b5f0-c85f1ccee2d8",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "       This formula is useful in various mathematical operations. In cooking, if a recipe calls for 20% of a cup of sugar and you want to convert it to a fraction for easier measurement, 20% = 20/100 = 1/5 cup. In construction, if a material is 30% of the total mix by volume and you need to calculate the fraction for proportioning, 30% = 30/100 = 3/10.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80d3-9380-f4b683c2dcab",
+      "type": "heading_1",
+      "content": [
+        {
+          "text": "How to Use Percentage Calculator?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-803e-b255-f262ad94cd32",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": " The percentage calculator allows you to input two values and choose the type of calculation you want to perform. For example, you can input a percentage and a number to find out what that percentage of the number is. Or you can input two numbers to find out what percentage one is of the other. The calculator will then display the result along with the calculation steps. You can use this tool for various purposes such as calculating discounts, interest rates, grades, and proportions. Whether you are a student working on math problems, a business owner analyzing financial data, or a consumer comparing prices, the percentage calculator simplifies the process and provides accurate results quickly.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8064-8743-fa92741fd82d",
+      "type": "heading_1",
+      "content": [
+        {
+          "text": "Formula Origin",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-807f-975e-f1265e0496db",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "The concept of percentage has been around for centuries. It originated from the Latin words \"per centum\" meaning \"by the hundred\". Over time, percentages have become an important part of mathematics and are widely used in various fields such as finance, statistics, science, and engineering. The development of percentage formulas has made it easier to perform calculations and analyze data. In ancient times, merchants used rudimentary forms of percentage calculations for trading and pricing. Today, percentage calculators are widely available online and on various devices, making it convenient for people to perform percentage calculations quickly and accurately. They have become an indispensable tool in modern life, enabling precise calculations in areas like budgeting, investment analysis, and scientific research.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8036-9f00-f34e6617d171",
+      "type": "heading_1",
+      "content": [
+        {
+          "text": "FAQ",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8026-83e5-e871df80af9e",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "1. How do I calculate percentage of a total?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80ff-bb70-d18dea7895e3",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "To calculate percentages, start by writing the number you want to turn into a percentage over the total value so you end up with a fraction. Then, turn the fraction into a decimal by dividing the top number by the bottom number. Finally, multiply the decimal by 100 to find the percentage. For example, if you have 25 apples out of a total of 100 fruits, 25/100 = 0.25, and 0.25 * 100 = 25%.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8034-8c20-dbc039fcb0b9",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "2. What is the formula for finding a percentage increase?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8092-9a0b-d9d43feecf9b",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "The formula for finding a percentage increase is ((new value - old value)/old value) * 100. For example, if the price of a stock increased from $50 to $60, ((60 - 50)/50) * 100 = 20% increase.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-805d-af5b-f57797989597",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "3. How do I find a percentage of a number?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-802f-a235-ec69652ce21c",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "To find a percentage of a number, multiply the number by the percentage as a decimal. For example, to find 20% of 50, multiply 50 by 0.20 (which is 20% in decimal form), so 50 * 0.20 = 10.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8096-9328-c8b7b63f57fe",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "4. What is the difference between percentage and percent?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-801f-a5ed-f4f5aecb1d35",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "\"Percentage\" and \"percent\" are often used interchangeably. However, \"percentage\" is a noun that refers to a number or ratio expressed as a fraction of 100. \"Percent\" is an abbreviation of \"per cent\" and is often used as a symbol (%) or in phrases like \"20 percent\". For example, you might say \"The percentage of students who passed is 80%\" or \"20 percent of the population is affected.\"",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8058-b2a0-ed7972959d62",
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "5. How do I convert a fraction to a percentage?",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-802a-9606-c305283a02b3",
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "To convert a fraction to a percentage, divide the numerator by the denominator to get a decimal. Then, multiply the decimal by 100 to get the percentage. For example, if you have the fraction 3/4, 3 divided by 4 is 0.75, and 0.75 * 100 = 75%.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80a0-b7ea-ddec02a071c1",
+      "type": "heading_1",
+      "content": [
+        {
+          "text": "Solved Examples on Percentage",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-8046-a24e-e44fd1e792e4",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Example 1: A store is offering a 20% discount on a $100 item. What is the discounted price?\nSolution:\nDiscount = 20% of $100 = 20/100 * 100 = $20\nDiscounted price = $100 - $20 = $80\nAnswer: The discounted price is $80.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80d6-8548-d4475487c94e",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Example 2: In a class of 50 students, 30 are boys. What percentage are girls?\nSolution:\nNumber of boys = 30\nTotal number of students = 50\nNumber of girls = 50 - 30 = 20\nPercentage of girls = (20/50) * 100 = 40%\nAnswer: 40% of the students are girls.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151e4db6-1239-80e3-8236-c93a9c597021",
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "Example 3: The price of a stock increased from $50 to $60. What is the percentage increase?\nSolution:\nInitial price = $50\nFinal price = $60\nIncrease = $60 - $50 = $10\nPercentage increase = (10/50) * 100 = 20%\nAnswer: The percentage increase is 20%.",
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "Percentage Calculator",
+    "lastUpdated": "2024-12-03T15:42:21.112Z"
+  },
+  "toc": [
+    {
+      "id": "-",
+      "text": "Percentage Calculator - Your Ultimate Guide",
+      "level": 1
+    },
+    {
+      "id": "ws",
+      "text": "What is Percentage?",
+      "level": 1
+    },
+    {
+      "id": "s",
+      "text": "Percentage Formulas",
+      "level": 1,
+      "children": [
+        {
+          "id": "ws",
+          "text": "1. What is X percent of Y?",
+          "level": 2
+        },
+        {
+          "id": "sw",
+          "text": "2. X is what percent of Y?",
+          "level": 2
+        },
+        {
+          "id": "wsss",
+          "text": "3. What is the percentage increase/decrease?",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "s",
+      "text": "Formula Changes",
+      "level": 1,
+      "children": [
+        {
+          "id": "",
+          "text": "1. Percentage of a number ",
+          "level": 2
+        },
+        {
+          "id": "s",
+          "text": "2. Number as a percentage of another number ",
+          "level": 2
+        },
+        {
+          "id": "s",
+          "text": "3. Finding the base number ",
+          "level": 2
+        },
+        {
+          "id": "wws",
+          "text": "4. Percentage change between two numbers ",
+          "level": 2
+        },
+        {
+          "id": "",
+          "text": "5. Converting percentage to fraction ",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "ws",
+      "text": "How to Use Percentage Calculator?",
+      "level": 1
+    },
+    {
+      "id": "",
+      "text": "Formula Origin",
+      "level": 1
+    },
+    {
+      "id": "",
+      "text": "FAQ",
+      "level": 1,
+      "children": [
+        {
+          "id": "w",
+          "text": "1. How do I calculate percentage of a total?",
+          "level": 2
+        },
+        {
+          "id": "wss",
+          "text": "2. What is the formula for finding a percentage increase?",
+          "level": 2
+        },
+        {
+          "id": "w",
+          "text": "3. How do I find a percentage of a number?",
+          "level": 2
+        },
+        {
+          "id": "wsw",
+          "text": "4. What is the difference between percentage and percent?",
+          "level": 2
+        },
+        {
+          "id": "w",
+          "text": "5. How do I convert a fraction to a percentage?",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "ss",
+      "text": "Solved Examples on Percentage",
+      "level": 1
+    }
+  ]
+}

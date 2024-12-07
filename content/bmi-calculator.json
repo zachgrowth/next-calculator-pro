@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "title": "BMI 计算器 - 体质指数计算器",
+    "description": "使用我们的 BMI 计算器快速计算您的体质指数，了解您的体重是否处于健康范围。提供准确的 BMI 计算和健康建议。",
+    "calculatorId": "bmi-calculator",
+    "status": "published",
+    "languages": ["zh-CN"],
+    "lastUpdated": "2024-02-20"
+  },
+  "blocks": [
+    {
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "BMI 计算器使用说明",
+          "annotations": {
+            "bold": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "BMI（体质指数）计算器可以帮助您快速评估自己的体重状况。只需输入身高和体重，即可获得 BMI 值和对应的体重分类。",
+          "annotations": {}
+        }
+      ]
+    },
+    {
+      "type": "heading_2",
+      "content": [
+        {
+          "text": "BMI 的重要性",
+          "annotations": {
+            "bold": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "text": "BMI 是评估成年人体重状况的重要指标之一。它可以：",
+          "annotations": {}
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "帮助评估健康风险",
+          "annotations": {
+            "bold": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "指导饮食和运动计划",
+          "annotations": {
+            "bold": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "bulleted_list_item",
+      "content": [
+        {
+          "text": "监测体重变化趋势",
+          "annotations": {
+            "bold": true
+          }
+        }
+      ]
+    }
+  ],
+  "toc": [
+    {
+      "text": "BMI 计算器使用说明",
+      "level": 2,
+      "id": "bmi-calculator-instructions"
+    },
+    {
+      "text": "BMI 的重要性",
+      "level": 2,
+      "id": "bmi-importance"
+    }
+  ]
+} 
